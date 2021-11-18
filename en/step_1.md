@@ -1,59 +1,17 @@
-## Introduction
+Navigate to the **model** you want to use in the Project window. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![The Project window with the Tree01 model highlighted from the project Assets.](images/tree-asset.png)
 
-### What you will make
+Drag the model into your Scene view. 
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![The Scene view with the Tree01 model added.](images/tree-model.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+You can go to the Inspector window for the new model GameObject and rename it. You can also create and apply a sensible tag. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![The Inspector window for the new model GameObject. The model has been remnamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+If your model has associated child GameObjects, you can enable and disable them using the checkbox next to their name in the Inspector window.
 
-+ A computer or tablet capable of running Scratch 3
+![The Raccoon child GameObject 'ConstructionGearMesh' in the Inspector window with the checkbox unchecked (disabled).](images/construction-disabled.png)
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+![The Raccoon GameObject ad child GameObjects in the Hierarchy window with the 'ConstructionGearMesh' child GameObject greyed out (disabled).](images/hierarchy-disabled.png)
