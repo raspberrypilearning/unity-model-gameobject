@@ -14,4 +14,4 @@ Si ton modèle a des GameObjects enfants associés, tu peux les activer et les d
 
 ![Le GameObject enfant Raccoon « ConstructionGearMesh » dans la fenêtre Inspector avec la case à cocher décochée (désactivée).](images/construction-disabled.png)
 
-![Le GameObject Raccoon et les GameObjects enfants dans la fenêtre Hierarchy avec le GameObject enfant « ConstructionGearMesh » grisé (désactivé).](images/hierarchy-disabled.png)
+![The Raccoon GameObject and child GameObjects in the Hierarchy window with the 'ConstructionGearMesh' child GameObject greyed out (disabled).](images/hierarchy-disabled.png)
