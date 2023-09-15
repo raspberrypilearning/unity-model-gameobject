@@ -1,17 +1,17 @@
-Navigate to the **model** you want to use in the Project window.
+Va jusqu'au **modèle** que tu veux utiliser dans la fenêtre Project.
 
-![The Project window with the Tree01 model highlighted from the project Assets.](images/tree-asset.png)
+![La fenêtre Project avec le modèle Tree01 en surbrillance dans le projet Assets.](images/tree-asset.png)
 
-Drag the model into your Scene view.
+Fais glisser le modèle dans ta vue Scene.
 
-![The Scene view with the Tree01 model added.](images/tree-model.png)
+![La vue Scene avec le modèle Tree01 ajouté.](images/tree-model.png)
 
-You can go to the Inspector window for the new model GameObject and rename it. You can also create and apply a sensible tag.
+Tu peux aller dans la fenêtre Inspector pour le nouveau modèle GameObject et le renommer. Tu peux aussi créer et appliquer un tag approprié.
 
-![The Inspector window for the new model GameObject. The model has been remnamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
+![La fenêtre Inspector pour le nouveau modèle GameObject. Le modèle a été renommé « Ash Tree » et le tag a été mise à jour pour indiquer « Tree ».](images/tree-tag.png)
 
-If your model has associated child GameObjects, you can enable and disable them using the checkbox next to their name in the Inspector window.
+Si ton modèle a des GameObjects enfants associés, tu peux les activer et les désactiver en utilisant la case à cocher située à côté de leur nom dans la fenêtre Inspector.
 
-![The Raccoon child GameObject 'ConstructionGearMesh' in the Inspector window with the checkbox unchecked (disabled).](images/construction-disabled.png)
+![Le GameObject enfant Raccoon « ConstructionGearMesh » dans la fenêtre Inspector avec la case à cocher décochée (désactivée).](images/construction-disabled.png)
 
-![The Raccoon GameObject ad child GameObjects in the Hierarchy window with the 'ConstructionGearMesh' child GameObject greyed out (disabled).](images/hierarchy-disabled.png)
+![Le GameObject Raccoon et les GameObjects enfants dans la fenêtre Hierarchy avec le GameObject enfant « ConstructionGearMesh » grisé (désactivé).](images/hierarchy-disabled.png)
