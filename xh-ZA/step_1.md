@@ -14,4 +14,4 @@ If your model has associated child GameObjects, you can enable and disable them 
 
 ![The Raccoon child GameObject 'ConstructionGearMesh' in the Inspector window with the checkbox unchecked (disabled).](images/construction-disabled.png)
 
-![The Raccoon GameObject ad child GameObjects in the Hierarchy window with the 'ConstructionGearMesh' child GameObject greyed out (disabled).](images/hierarchy-disabled.png)
+![The Raccoon GameObject and child GameObjects in the Hierarchy window with the 'ConstructionGearMesh' child GameObject greyed out (disabled).](images/hierarchy-disabled.png)
