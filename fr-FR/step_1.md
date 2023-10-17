@@ -8,7 +8,7 @@ Fais glisser le modèle dans ta vue Scene.
 
 Tu peux aller dans la fenêtre Inspector pour le nouveau modèle GameObject et le renommer. Tu peux aussi créer et appliquer un tag approprié.
 
-![La fenêtre Inspector pour le nouveau modèle GameObject. Le modèle a été renommé « Ash Tree » et le tag a été mise à jour pour indiquer « Tree ».](images/tree-tag.png)
+![La fenêtre Inspector pour le nouveau modèle GameObject. The model has been renamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
 
 Si ton modèle a des GameObjects enfants associés, tu peux les activer et les désactiver en utilisant la case à cocher située à côté de leur nom dans la fenêtre Inspector.
 
