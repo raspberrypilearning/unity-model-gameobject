@@ -8,7 +8,7 @@ Sleep het model naar je Scèneweergave.
 
 Je kunt naar het Inspector-venster voor het nieuwe model GameObject gaan en het hernoemen. Je kunt ook een tag maken en toepassen, geef deze een logische naam.
 
-![Het Inspector-venster voor het nieuwe model GameObject. Het model heeft de nieuwe naam 'Ash Tree' gekregen en de tag is bijgewerkt om 'Tree' weer te geven.](images/tree-tag.png)
+![Het Inspector-venster voor het nieuwe model GameObject. The model has been renamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
 
 Als je model onderliggende GameObjects gekoppeld heeft, kun je deze inschakelen en uitschakelen met behulp van het selectievakje naast hun naam in het Inspector-venster.
 
