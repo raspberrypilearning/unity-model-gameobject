@@ -8,7 +8,7 @@ Drag the model into your Scene view.
 
 You can go to the Inspector window for the new model GameObject and rename it. You can also create and apply a sensible tag.
 
-![The Inspector window for the new model GameObject. The model has been remnamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
+![The Inspector window for the new model GameObject. The model has been renamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
 
 If your model has associated child GameObjects, you can enable and disable them using the checkbox next to their name in the Inspector window.
 
