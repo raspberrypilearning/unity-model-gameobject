@@ -1,17 +1,17 @@
-Navigate to the **model** you want to use in the Project window.
+Navigeer naar het **model** dat je wil gebruiken in het Projectvenster.
 
-![The Project window with the Tree01 model highlighted from the project Assets.](images/tree-asset.png)
+![Het Project venster met het Tree01 model gemarkeerd van de project Assets.](images/tree-asset.png)
 
-Drag the model into your Scene view.
+Sleep het model naar je Scèneweergave.
 
-![The Scene view with the Tree01 model added.](images/tree-model.png)
+![De Scèneweergave met het Tree01-model toegevoegd.](images/tree-model.png)
 
-You can go to the Inspector window for the new model GameObject and rename it. You can also create and apply a sensible tag.
+Je kunt naar het Inspector-venster voor het nieuwe model GameObject gaan en het hernoemen. Je kunt ook een tag maken en toepassen, geef deze een logische naam.
 
-![The Inspector window for the new model GameObject. The model has been remnamed 'Ash Tree' and the tag has been updated to show 'Tree'.](images/tree-tag.png)
+![Het Inspector-venster voor het nieuwe model GameObject. Het model heeft de nieuwe naam 'Ash Tree' gekregen en de tag is bijgewerkt om 'Tree' weer te geven.](images/tree-tag.png)
 
-If your model has associated child GameObjects, you can enable and disable them using the checkbox next to their name in the Inspector window.
+Als je model onderliggende GameObjects gekoppeld heeft, kun je deze inschakelen en uitschakelen met behulp van het selectievakje naast hun naam in het Inspector-venster.
 
-![The Raccoon child GameObject 'ConstructionGearMesh' in the Inspector window with the checkbox unchecked (disabled).](images/construction-disabled.png)
+![Het Raccoon onderliggend GameObject 'ConstructionGearMesh' in het Inspector venster met het selectievakje uitgevinkt (uitgeschakeld).](images/construction-disabled.png)
 
-![The Raccoon GameObject and child GameObjects in the Hierarchy window with the 'ConstructionGearMesh' child GameObject greyed out (disabled).](images/hierarchy-disabled.png)
+![Het Raccoon GameObject en onderliggende GameObjects in het Hierarchy venster met het 'ConstructionGearMesh' onderliggende GameObject grijs weergegeven (uitgeschakeld).](images/hierarchy-disabled.png)
